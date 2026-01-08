@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# to-do-app
+A simple full‑stack to‑do app using React and Django, built to perform basic CRUD operations. It lets users create, view, update, and delete tasks with a clean interface and reliable backend.
+>>>>>>> 261354fb3ac8f0996e7bf5706588b76c6b224052
